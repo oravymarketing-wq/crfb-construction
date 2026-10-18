@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- À FOURNIR : remplacer DOMAINE-A-FOURNIR par le nom de domaine final -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.DOMAINE-A-FOURNIR.ca/</loc></url>
+  <url><loc>https://www.DOMAINE-A-FOURNIR.ca/services.html</loc></url>
+  <url><loc>https://www.DOMAINE-A-FOURNIR.ca/realisations.html</loc></url>
+  <url><loc>https://www.DOMAINE-A-FOURNIR.ca/soumission.html</loc></url>
+</urlset>

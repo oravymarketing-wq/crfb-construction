@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# À FOURNIR : remplacer le domaine une fois connu
+Sitemap: https://www.DOMAINE-A-FOURNIR.ca/sitemap.xml
